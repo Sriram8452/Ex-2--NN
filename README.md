@@ -1,8 +1,7 @@
 <H3>Name:Sriram G</H3>
 <H3>Register no:212222230149</H3>
-<H3>Experiment No. 2 </H3>
 
-# Implementation of Perceptron for Binary Classification
+# Experiment No.2-Implementation of Perceptron for Binary Classification
 
 # AIM:
 To implement a perceptron for classification using Python<BR>
@@ -50,6 +49,11 @@ STEP 9:For ‘N ‘ iterations ,do the following:<BR>
 STEP 10:Plot the error for each iteration <BR>
 STEP 11:Print the accuracy<BR>
 # PROGRAM:
+
+Name:Sriram G
+
+Register no:212222230149
+
 ```
 import numpy as np
 import pandas as pd
