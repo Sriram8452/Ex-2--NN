@@ -1,6 +1,3 @@
-<H3>Name:Sriram G</H3>
-<H3>Register no:212222230149</H3>
-
 # Experiment No.2-Implementation of Perceptron for Binary Classification
 
 # AIM:
